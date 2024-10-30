@@ -4,13 +4,17 @@ body {
     font-family: Arial, sans-serif; 
 }
 
+.arregloespacio{
+    margin-right: 10px;
+}
 .post {
     max-width: 500px;
     margin: 0 auto;
     background-color: white;
     color: black; 
     border-radius: 10px;
-    overflow: hidden; 
+    overflow: hidden;
+    border-radius: 0; 
 }
 
 .post-header {
@@ -53,7 +57,7 @@ body {
 }
 
 .arregloizquierda{
-    margin-left: 380px;
+    margin-left: 360px;
 }
 
 .post-icons i {
